@@ -2,7 +2,7 @@
 
 # Simple Tab
 
-Simple Tab is a Google Chrome extension that transforms your new tab into a beautiful and minimalistic image. 
+Simple Tab is a Google Chrome extension that transforms your new tab into a beautiful and minimalistic image. You can get this extension at the [Chrome Web store.](https://chrome.google.com/webstore/detail/simple-tab/onmajccknmlhmaclaeplheoehfknefma)
 
 ### Features
 
