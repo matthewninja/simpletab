@@ -25,8 +25,10 @@ Simple Tab is a Google Chrome extension that transforms your new tab into a beau
 All contributions are welcome. You're also welcome to fork this repository to add features for just yourself. You can reach the creator on twitter at [@koreacanadian](https://twitter.com/koreacanadian) if you have any questions.
 
 ### TODO
-* Create Options page for user customization and preferences
-    * Have various subsets of images
+* Display the time (if the user enables it)
+* Display a quote (if the user enables it)
+* Help the user find the source of the photos
+* Have various subsets of images
 
 ### License
 
