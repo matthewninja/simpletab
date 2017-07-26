@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Simple Tab",
-  "version": "0.1.1",
+  "version": "0.2",
 
   "description": "Transforms your new tab page into a beautiful and minimalistic image.\n All code is open source.",
   "icons": {"16": "img/icon16.png",
@@ -19,6 +19,7 @@
   },
   "homepage_url": "https://github.com/matthewninja/simpletab",
   "offline_enabled": true,
-  "permissions": ["tabs"],
+  "permissions": ["tabs", "storage"],
+  "options_page": "options.html",
   "short_name": "Simple Tab"
 }
